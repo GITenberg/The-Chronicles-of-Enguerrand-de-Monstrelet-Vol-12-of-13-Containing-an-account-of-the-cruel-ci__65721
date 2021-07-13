@@ -1,0 +1,38 @@
+_repo: The-Chronicles-of-Enguerrand-de-Monstrelet-Vol-12-of-13-Containing-an-account-of-the-cruel-ci__65721
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Johnes, Thomas
+    birthdate: 1748
+    deathdate: 1816
+    gutenberg_agent_id: '46109'
+    url: http://www.gutenberg.org/2009/agents/46109
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Johnes
+creator:
+  author:
+    agent_name: Monstrelet, Enguerrand de
+    aliases:
+    - De Monstrelet, Enguerrand
+    - Monstrelet, Enguerran de
+    deathdate: 1453
+    gutenberg_agent_id: '46108'
+    url: http://www.gutenberg.org/2009/agents/46108
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Enguerrand_de_Monstrelet
+    - https://fr.wikipedia.org/wiki/Enguerrand_de_Monstrelet
+description: ''
+gutenberg_issued: '2021-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Chronicles of Enguerrand de Monstrelet, Vol. 12 [of 13]
+
+  Containing an account of the cruel civil wars between the houses of Orleans and
+  Burgundy'
+url: http://www.gutenberg.org/ebooks/65721
